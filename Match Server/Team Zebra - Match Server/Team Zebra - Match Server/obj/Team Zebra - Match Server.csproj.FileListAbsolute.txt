@@ -1,0 +1,20 @@
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Debug\Team Zebra - Match Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Debug\Team Zebra - Match Server.pdb
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Debug\Team Zebra - Match Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Debug\Team Zebra - Match Server.pdb
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Release\Team Zebra - Match Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Release\Team Zebra - Match Server.pdb
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Release\Team Zebra - Match Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Release\Team Zebra - Match Server.pdb
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Debug\Team Zebra - Match Server.exe
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Debug\Team Zebra - Match Server.pdb
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Debug\Team Zebra - Match Server.exe
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Debug\Team Zebra - Match Server.pdb
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Release\Team Zebra - Match Server.exe
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Release\Team Zebra - Match Server.pdb
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Release\Team Zebra - Match Server.exe
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\bin\Release\Team Zebra - Match Server.pdb
+C:\Users\Josh\Desktop\src\Match Server\Team Zebra - Match Server\Team Zebra - Match Server\obj\Release\ResolveAssemblyReference.cache

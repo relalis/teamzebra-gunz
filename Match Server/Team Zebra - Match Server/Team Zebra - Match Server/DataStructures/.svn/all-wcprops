@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures
+END
+Client.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/Client.cs
+END
+UID.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/UID.cs
+END
+ClanGrades.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/ClanGrades.cs
+END
+UGradeIDs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/UGradeIDs.cs
+END
+Lobby.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/Lobby.cs
+END
+WriteableBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/WriteableBuffer.cs
+END
+EquippedCIIDs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/EquippedCIIDs.cs
+END
+ChannelType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/ChannelType.cs
+END
+GunzPacket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/GunzPacket.cs
+END
+EquippedItemIDs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/EquippedItemIDs.cs
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/Account.cs
+END
+Character.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/8/trunk/Match%20Server/Team%20Zebra%20-%20Match%20Server/Team%20Zebra%20-%20Match%20Server/DataStructures/Character.cs
+END

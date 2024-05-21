@@ -1,0 +1,81 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8967A05E-96E5-4345-9998-6DAED97978FA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Zebra</RootNamespace>
+    <AssemblyName>Team Zebra - Match Server</AssemblyName>
+    <ApplicationIcon>Team Zebra.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\IniFile.cs" />
+    <Compile Include="DatabaseInteraction\DynamicSQL.cs" />
+    <Compile Include="DatabaseInteraction\StaticSQL.cs" />
+    <Compile Include="DataStructures\Account.cs" />
+    <Compile Include="DataStructures\ChannelType.cs" />
+    <Compile Include="DataStructures\Character.cs" />
+    <Compile Include="DataStructures\ClanGrades.cs" />
+    <Compile Include="DataStructures\Client.cs" />
+    <Compile Include="DataStructures\EquippedCIIDs.cs" />
+    <Compile Include="DataStructures\EquippedItemIDs.cs" />
+    <Compile Include="DataStructures\GunzPacket.cs" />
+    <Compile Include="DataStructures\Lobby.cs" />
+    <Compile Include="DataStructures\Results\ShopResults.cs" />
+    <Compile Include="DataStructures\UID.cs" />
+    <Compile Include="DataStructures\Results\CharacterResults.cs" />
+    <Compile Include="DataStructures\Results\LoginResults.cs" />
+    <Compile Include="DataStructures\UGradeIDs.cs" />
+    <Compile Include="DataStructures\WriteableBuffer.cs" />
+    <Compile Include="Miscellaneous\ConsoleOutput.cs" />
+    <Compile Include="Miscellaneous\Globals.cs" />
+    <Compile Include="Networking\Networking.cs" />
+    <Compile Include="PacketHandling\HeaderResponses.cs" />
+    <Compile Include="PacketHandling\PacketCategories\Channel.cs" />
+    <Compile Include="PacketHandling\PacketCategories\Match.cs" />
+    <Compile Include="PacketHandling\PacketCategories\MatchServer.cs" />
+    <Compile Include="PacketHandling\PacketCategories\MiscPackets.cs" />
+    <Compile Include="PacketHandling\PacketCategories\Net.cs" />
+    <Compile Include="PacketHandling\PacketCategories\Quest.cs" />
+    <Compile Include="PacketHandling\PacketCategories\Stage.cs" />
+    <Compile Include="PacketHandling\Protocol.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Team Zebra.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

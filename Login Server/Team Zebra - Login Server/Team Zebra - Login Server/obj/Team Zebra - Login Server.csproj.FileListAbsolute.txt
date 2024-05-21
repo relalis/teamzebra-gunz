@@ -1,0 +1,20 @@
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Debug\Team Zebra - Login Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Debug\Team Zebra - Login Server.pdb
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Debug\Team Zebra - Login Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Debug\Team Zebra - Login Server.pdb
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Release\Team Zebra - Login Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Release\Team Zebra - Login Server.pdb
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Release\Team Zebra - Login Server.exe
+C:\Users\Josh\Documents\Visual Studio 2005\Projects\Team Zebra Emulator\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Release\Team Zebra - Login Server.pdb
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Release\Team Zebra - Login Server.exe
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Release\Team Zebra - Login Server.pdb
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Release\Team Zebra - Login Server.exe
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Release\Team Zebra - Login Server.pdb
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Debug\Team Zebra - Login Server.exe
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Debug\Team Zebra - Login Server.pdb
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Debug\Team Zebra - Login Server.exe
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\bin\Debug\Team Zebra - Login Server.pdb
+C:\Users\Josh\Desktop\src\Login Server\Team Zebra - Login Server\Team Zebra - Login Server\obj\Debug\ResolveAssemblyReference.cache
